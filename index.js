@@ -1,0 +1,3 @@
+function isThisOpensource() {
+  return '¿🤔?';
+}
